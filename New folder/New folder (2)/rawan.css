@@ -1,0 +1,40 @@
+
+
+header {
+    min-height:1000px;
+    background-image: url("hotel.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}   
+
+
+body {
+  background-color: #FFD700;
+}
+   
+    h1.A{text-align:center;
+    color:white;
+    text-decoration:underline;
+    text-shadow:7px 6px 3px Navy;
+    font-style:italic;
+    font-size:60px;   
+}
+   h3.B{
+text-align:center;
+    color:#FFD700;
+text-shadow:5px 2px 3px black;
+    text-decoration:underline;
+    
+    font-style:oblique;
+    font-size:40px;   
+}
+form.C{
+ text-align:center;
+ color:#191970;
+ font-size:20px;
+font-weight:bold;
+font-family:Georgia;
+   font-style:oblique;
+text-shadow:3px 2px 2px white;
+ 
+}
